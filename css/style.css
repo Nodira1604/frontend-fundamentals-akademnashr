@@ -1,0 +1,166 @@
+header {
+  width: 1440px;
+  height: 200px;
+  background-color: #fff;
+
+}
+
+
+nav a {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 13px;
+  font-family: sans-serif;
+  font-weight: 500;
+  line-height: 100%;
+  letter-spacing: 1px;
+  color: #000;
+}
+
+.button {
+  width: 155px;
+  height: 39px;
+  background-color: #ff7500;
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 100%;
+  letter-spacing: 0.5;
+  text-decoration: none;
+
+}
+
+main {
+  width: 1440px;
+
+}
+
+.hero {
+  width: 1440px;
+  height: 488px;
+  background-color: #252420;
+}
+
+.hero hr {
+  width: 80px;
+  height: 3px;
+  background-color: #ff7500;
+
+}
+
+.hero-text {
+  width: 387px;
+  height: 328px;
+}
+
+.hero-text h2 {
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 120%;
+  letter-spacing: 0.5em;
+  color: #FFF;
+}
+
+.hero-text p {
+  font-family: sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.5px;
+  color: #FFF;
+
+}
+
+
+.hero-text a {
+  width: 155px;
+  height: 39px;
+  background-color: #ff7500;
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 100%;
+  letter-spacing: 0.5;
+  text-decoration: none;
+}
+
+.feautures {
+  width: 1440px;
+  height: 936px;
+  background-color: #fff;
+}
+
+.feautures hr {
+  width: 80px;
+  height: 3px;
+  background-color: #ff7500;
+
+}
+
+.feautures h2 {
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 120%;
+  letter-spacing: 0.5px;
+
+}
+
+.feautures h3 {
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 120%;
+  letter-spacing: 0.5px;
+}
+
+.feautures p {
+  font-family: sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.5px;
+}
+
+.sale {
+  width: 1100;
+  height: 504;
+}
+
+.sale-text h2 {
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 120%;
+  letter-spacing: 0.5px;
+
+}
+
+.sale-text p {
+  font-family: sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.5px;
+
+
+}
+
+.sale-text button {
+  width: 155px;
+  height: 39px;
+  background-color: #ff7500;
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 100%;
+  letter-spacing: 0.5;
+  text-decoration: none;
+
+}
+
+.button a {
+  text-decoration: none;
+  color: #fff;
+}
