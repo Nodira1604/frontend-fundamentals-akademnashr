@@ -3,6 +3,10 @@
 }
 
 
+.sitenav-list {
+  list-style: none;
+}
+
 .sitenav-link {
   color: #000;
   font-size: 13px;
@@ -31,8 +35,6 @@
   color: #fff;
 }
 
-
-
 .hero-content {
   width: 390px;
 }
@@ -44,10 +46,10 @@
 }
 
 .hero-heading {
-  font-size: 40px;
+  font-style: 40px;
   line-height: 1.2;
-  letter-spacing: 0.5px;
 }
+
 
 .hero-img {
   width: 510px;
@@ -58,44 +60,94 @@
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.5px;
-
 }
 
 
-.features-heading {
-  font-weight: 700;
+
+.feature-heading {
+  width: 440px;
   font-size: 72px;
   line-height: 1.2;
   letter-spacing: 0.5px;
 }
 
-.features-svg {
-  width: 56px;
-  height: 56px;
+.feature {
+  width: 340px;
 }
 
-.features-content {
-  font-weight: 700;
+.feature-icon-wrapper {
+  width: 100px;
+  height: 100px;
+  background-color: rgba(255, 117, 0, 0.2);
+}
+
+.feature-title {
   font-size: 24px;
   line-height: 1.2;
   letter-spacing: 0.5px;
-
 }
 
-.features-text {
-  font-weight: 400;
+.feature-info {
   font-size: 16px;
-  line-height: 150%;
+  line-height: 1.5;
   letter-spacing: 0.5px;
 
 }
 
-.sale {}
+.promo {
+  background-color: #252420;
+  color: #fff;
 
-.sale-content {}
 
-.sale-heading {}
+}
 
-.sale-text {}
+.promo-content {
+  width: 440px;
 
-.text-bold {}
+}
+
+.promo-heading {
+  font-size: 40px;
+  line-height: 48px;
+}
+
+.promo-text {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.promo-highlight {
+  color: #ff7500;
+}
+
+.promo-img {
+  width: 440px;
+  height: 440px;
+  object-fit: cover;
+}
+
+.site-footer {
+  background-color: #f8f8f8;
+
+}
+
+.site-footer ul {
+  list-style: none;
+}
+
+.site-footer-divider {
+  background-color: rgba(37, 36, 32, 0.5);
+  height: 2px;
+
+}
+
+.site-footer-links {
+  width: 224px;
+}
+
+.site-footer-links a {
+  font-size: 16px;
+  line-height: 16px;
+  text-decoration: none;
+  color: #252420;
+}
